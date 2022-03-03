@@ -1,5 +1,5 @@
 # moire-MCNN
-去摩尔纹算法的部分复现，基于Moire Photo Restoration Using Multiresolution  Convolutional Neural Networks(非官方)
+去摩尔纹算法的部分复现（代码部分仍不完善），基于Moire Photo Restoration Using Multiresolution  Convolutional Neural Networks(非官方)
 
 网络架构与训练测试部分没问题，调用部分需调整数据格式以得到可视化图片，调用部分仍须调整。
 
